@@ -22,9 +22,9 @@ angular.module('starter', ['ionic', 'ngCordova', 'ionic.service.core', 'ionic.se
   // Identify app
   $ionicAppProvider.identify({
     // The App ID (from apps.ionic.io) for the server
-    app_id: '9ea383a0',
+    app_id: '669da69a',
     // The public API key all services will use for this app
-    api_key: '602a38c8177e021848b336bb878eca8a9b82352608dcc2fa',
+    api_key: 'b191f7887f360cfb51dd266826503f3758d64e1537b5490d',
     // Set the app to use development pushes
     //o definir esta bandeira podemos enviar notificações push desenvolvimento.
     dev_push: true
